@@ -15,5 +15,8 @@ The Ad-Hoc Workers Hiring Management Application is a user-friendly mobile app d
 ## Technology Stack:
 
 - React Native: Cross-platform mobile app development for iOS and Android.
+- Expo: Development tool and framework for building React Native apps with ease.
 - Axios: API integration for real-time communication.
 - Firebase: Real-time database for efficient data storage.
+- Node.js: Server-side JavaScript runtime for building scalable applications.
+
